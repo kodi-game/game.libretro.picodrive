@@ -16,12 +16,9 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">Sega - MS/MD/CD/32X (PicoDrive) 1.98-</summary>
-		<description lang="en_GB">Picodrive is yet another Megadrive / Genesis / Sega CD / Mega CD / 32X / SMS emulator heavily optimized for ARM.
-
-Authors: Dave (aka fdave, finalburn author) and notaz
-
-Supported files: .bin, .gen, .smd, .md, .32x, .cue, .iso, .chd, .sms, .m3u</description>
+		<description lang="en_GB">PicoDrive is yet another Mega Drive / Genesis / Sega CD / Mega CD / 32X / SMS emulator heavily optimized for ARM.</description>
 		<license>MAME</license>
+		<disclaimer>Authors: Dave (aka fdave, FinalBurn author) and notaz</disclaimer>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.picodrive</source>
 		<assets>
