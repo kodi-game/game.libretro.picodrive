@@ -17,6 +17,14 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
 
+msgctxt "Addon Summary"
+msgid "Sega - MS/MD/CD/32X (PicoDrive) 1.98-"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "PicoDrive is yet another Mega Drive / Genesis / Sega CD / Mega CD / 32X / SMS emulator heavily optimized for ARM."
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
