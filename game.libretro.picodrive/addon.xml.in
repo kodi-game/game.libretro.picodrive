@@ -26,6 +26,7 @@
 		</assets>
 		<disclaimer>Authors: Dave (aka fdave, FinalBurn author) and notaz</disclaimer>
 		<summary lang="en_GB">Sega - MS/MD/CD/32X (PicoDrive) 1.98-</summary>
+		<description lang="da_DK">PicoDrive er endnu en Mega Drive / Genesis / Sega CD / Mega CD / 32X / SMS-emulator stærkt optimeret til ARM.</description>
 		<description lang="en_GB">PicoDrive is yet another Mega Drive / Genesis / Sega CD / Mega CD / 32X / SMS emulator heavily optimized for ARM.</description>
 	</extension>
 </addon>
