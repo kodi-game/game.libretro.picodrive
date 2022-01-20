@@ -22,7 +22,7 @@ msgid "Sega - MS/MD/CD/32X (PicoDrive) 1.98-"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "PicoDrive is yet another Mega Drive / Genesis / Sega CD / Mega CD / 32X / SMS emulator heavily optimized for ARM."
+msgid "PicoDrive is yet another Sega Game Gear / Master System / Mega Drive / Mega CD / 32X emulator heavily optimized for ARM."
 msgstr ""
 
 msgctxt "Addon Disclaimer"
