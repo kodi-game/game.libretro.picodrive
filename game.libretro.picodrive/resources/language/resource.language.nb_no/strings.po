@@ -24,66 +24,86 @@ msgctxt "Addon Description"
 msgid "PicoDrive is yet another Mega Drive / Genesis / Sega CD / Mega CD / 32X / SMS emulator heavily optimized for ARM."
 msgstr ""
 
+msgctxt "Addon Disclaimer"
+msgid "Authors: Dave (aka fdave, FinalBurn author) and notaz"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Input device 1"
+msgid "System Region"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Input device 2"
+msgid "Master System Type"
 msgstr ""
 
 msgctxt "#30003"
-msgid "No sprite limit"
+msgid "Master System ROM Mapping"
 msgstr ""
 
 msgctxt "#30004"
-msgid "MegaCD RAM cart"
+msgid "Sega CD RAM Cart"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Region"
+msgid "Core-Provided Aspect Ratio"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Core-provided aspect ratio"
+msgid "LCD Ghosting Filter"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Show Overscan"
+msgid "Video Renderer"
 msgstr ""
 
 msgctxt "#30008"
-msgid "68K Overclock"
+msgid "Audio Sample Rate (Hz)"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Dynamic recompilers"
+msgid "Master System FM Sound Unit"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Audio filter"
+msgid "Mega Drive FM DAC noise"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Low-pass filter %"
+msgid "Audio Filter"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Frameskip"
+msgid "Low-Pass Filter %"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Frameskip Threshold (%)"
+msgid "Input Device 1"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Renderer"
+msgid "Input Device 2"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Sound quality"
+msgid "Dynamic Recompilers"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Frameskip"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Frameskip Threshold (%)"
+msgstr ""
+
+msgctxt "#30018"
+msgid "No Sprite Limit"
+msgstr ""
+
+msgctxt "#30019"
+msgid "68K Overclock"
 msgstr ""
