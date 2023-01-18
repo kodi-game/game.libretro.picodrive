@@ -32,6 +32,7 @@
 		<description lang="zh_CN">PicoDrive 是另一款针对 ARM 进行了大量优化的 Sega Game Gear / Master System / Mega Drive / Mega CD / 32X 模拟器。</description>
 		<disclaimer lang="da_DK">Forfattere: Dave (aka fdave, FinalBurn forfatter) og notaz</disclaimer>
 		<disclaimer lang="en_GB">Authors: Dave (aka fdave, FinalBurn author) and notaz</disclaimer>
+		<disclaimer lang="es_ES">Autores: Dave (alias fdave, autor de FinalBurn) y notaz</disclaimer>
 		<disclaimer lang="zh_CN">作者：Dave（又名 fdave，FinalBurn 作者）和 notaz</disclaimer>
 	</extension>
 </addon>
