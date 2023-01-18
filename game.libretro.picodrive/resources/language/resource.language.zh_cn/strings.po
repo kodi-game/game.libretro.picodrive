@@ -66,45 +66,93 @@ msgid "Audio Sample Rate (Hz)"
 msgstr "音频采样率（Hz）"
 
 msgctxt "#30009"
-msgid "Master System FM Sound Unit"
-msgstr "主系统 FM 声音单元"
+msgid "FM filtering"
+msgstr ""
 
 msgctxt "#30010"
-msgid "Mega Drive FM DAC noise"
-msgstr "世嘉 Drive FM DAC 噪声"
+msgid "Master System FM Sound Unit"
+msgstr ""
 
 msgctxt "#30011"
-msgid "Audio Filter"
-msgstr "音频滤波器"
+msgid "Mega Drive FM DAC noise"
+msgstr ""
 
 msgctxt "#30012"
-msgid "Low-Pass Filter %"
-msgstr "低通滤波器 %"
+msgid "Audio Filter"
+msgstr ""
 
 msgctxt "#30013"
-msgid "Input Device 1"
-msgstr "输入设备1"
+msgid "Low-Pass Filter %"
+msgstr ""
 
 msgctxt "#30014"
-msgid "Input Device 2"
-msgstr "输入设备2"
+msgid "Input Device 1"
+msgstr ""
 
 msgctxt "#30015"
-msgid "Dynamic Recompilers"
-msgstr "动态重编译器"
+msgid "Input Device 2"
+msgstr ""
 
 msgctxt "#30016"
-msgid "Frameskip"
-msgstr "帧跳过"
+msgid "Dynamic Recompilers"
+msgstr ""
 
 msgctxt "#30017"
-msgid "Frameskip Threshold (%)"
-msgstr "帧跳过阈值（%）"
+msgid "Frameskip"
+msgstr ""
 
 msgctxt "#30018"
-msgid "No Sprite Limit"
-msgstr "无 Sprite 限制"
+msgid "Frameskip Threshold (%)"
+msgstr ""
 
 msgctxt "#30019"
+msgid "No Sprite Limit"
+msgstr ""
+
+msgctxt "#30020"
 msgid "68K Overclock"
-msgstr "68K 超频"
+msgstr ""
+
+#~ msgctxt "#30009"
+#~ msgid "Master System FM Sound Unit"
+#~ msgstr "主系统 FM 声音单元"
+
+#~ msgctxt "#30010"
+#~ msgid "Mega Drive FM DAC noise"
+#~ msgstr "世嘉 Drive FM DAC 噪声"
+
+#~ msgctxt "#30011"
+#~ msgid "Audio Filter"
+#~ msgstr "音频滤波器"
+
+#~ msgctxt "#30012"
+#~ msgid "Low-Pass Filter %"
+#~ msgstr "低通滤波器 %"
+
+#~ msgctxt "#30013"
+#~ msgid "Input Device 1"
+#~ msgstr "输入设备1"
+
+#~ msgctxt "#30014"
+#~ msgid "Input Device 2"
+#~ msgstr "输入设备2"
+
+#~ msgctxt "#30015"
+#~ msgid "Dynamic Recompilers"
+#~ msgstr "动态重编译器"
+
+#~ msgctxt "#30016"
+#~ msgid "Frameskip"
+#~ msgstr "帧跳过"
+
+#~ msgctxt "#30017"
+#~ msgid "Frameskip Threshold (%)"
+#~ msgstr "帧跳过阈值（%）"
+
+#~ msgctxt "#30018"
+#~ msgid "No Sprite Limit"
+#~ msgstr "无 Sprite 限制"
+
+#~ msgctxt "#30019"
+#~ msgid "68K Overclock"
+#~ msgstr "68K 超频"

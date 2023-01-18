@@ -66,45 +66,77 @@ msgid "Audio Sample Rate (Hz)"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Master System FM Sound Unit"
+msgid "FM filtering"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Mega Drive FM DAC noise"
+msgid "Master System FM Sound Unit"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Audio Filter"
-msgstr "Filtro audio"
+msgid "Mega Drive FM DAC noise"
+msgstr ""
 
 msgctxt "#30012"
-msgid "Low-Pass Filter %"
-msgstr "Filtro passa basso %"
+msgid "Audio Filter"
+msgstr ""
 
 msgctxt "#30013"
-msgid "Input Device 1"
-msgstr "Dispositivo di ingresso 1"
+msgid "Low-Pass Filter %"
+msgstr ""
 
 msgctxt "#30014"
-msgid "Input Device 2"
-msgstr "Dispositivo di ingresso 2"
+msgid "Input Device 1"
+msgstr ""
 
 msgctxt "#30015"
-msgid "Dynamic Recompilers"
+msgid "Input Device 2"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Frameskip"
-msgstr "Salto fotogrammi"
+msgid "Dynamic Recompilers"
+msgstr ""
 
 msgctxt "#30017"
-msgid "Frameskip Threshold (%)"
-msgstr "Soglia di salto fotogrammi (%)"
+msgid "Frameskip"
+msgstr ""
 
 msgctxt "#30018"
-msgid "No Sprite Limit"
-msgstr "Nessun limite di sprite"
+msgid "Frameskip Threshold (%)"
+msgstr ""
 
 msgctxt "#30019"
+msgid "No Sprite Limit"
+msgstr ""
+
+msgctxt "#30020"
 msgid "68K Overclock"
 msgstr ""
+
+#~ msgctxt "#30011"
+#~ msgid "Audio Filter"
+#~ msgstr "Filtro audio"
+
+#~ msgctxt "#30012"
+#~ msgid "Low-Pass Filter %"
+#~ msgstr "Filtro passa basso %"
+
+#~ msgctxt "#30013"
+#~ msgid "Input Device 1"
+#~ msgstr "Dispositivo di ingresso 1"
+
+#~ msgctxt "#30014"
+#~ msgid "Input Device 2"
+#~ msgstr "Dispositivo di ingresso 2"
+
+#~ msgctxt "#30016"
+#~ msgid "Frameskip"
+#~ msgstr "Salto fotogrammi"
+
+#~ msgctxt "#30017"
+#~ msgid "Frameskip Threshold (%)"
+#~ msgstr "Soglia di salto fotogrammi (%)"
+
+#~ msgctxt "#30018"
+#~ msgid "No Sprite Limit"
+#~ msgstr "Nessun limite di sprite"

@@ -66,48 +66,96 @@ msgid "Audio Sample Rate (Hz)"
 msgstr "Lydens samplefrekvens (Hz)"
 
 msgctxt "#30009"
-msgid "Master System FM Sound Unit"
-msgstr "Hovedsystemets FM-lydenhed"
+msgid "FM filtering"
+msgstr ""
 
 msgctxt "#30010"
-msgid "Mega Drive FM DAC noise"
-msgstr "Mega Drive FM DAC-støj"
+msgid "Master System FM Sound Unit"
+msgstr ""
 
 msgctxt "#30011"
-msgid "Audio Filter"
-msgstr "Lydfilter"
+msgid "Mega Drive FM DAC noise"
+msgstr ""
 
 msgctxt "#30012"
-msgid "Low-Pass Filter %"
-msgstr "Low-pass-filter %"
+msgid "Audio Filter"
+msgstr ""
 
 msgctxt "#30013"
-msgid "Input Device 1"
-msgstr "Indgangsenhed 1"
+msgid "Low-Pass Filter %"
+msgstr ""
 
 msgctxt "#30014"
-msgid "Input Device 2"
-msgstr "Indgangsenhed 2"
+msgid "Input Device 1"
+msgstr ""
 
 msgctxt "#30015"
-msgid "Dynamic Recompilers"
-msgstr "Dynamiske recompilere"
+msgid "Input Device 2"
+msgstr ""
 
 msgctxt "#30016"
-msgid "Frameskip"
-msgstr "Spring frame over"
+msgid "Dynamic Recompilers"
+msgstr ""
 
 msgctxt "#30017"
-msgid "Frameskip Threshold (%)"
-msgstr "Tærskel når der springes en frame over (%)"
+msgid "Frameskip"
+msgstr ""
 
 msgctxt "#30018"
-msgid "No Sprite Limit"
-msgstr "Ingen Sprite begrænsning"
+msgid "Frameskip Threshold (%)"
+msgstr ""
 
 msgctxt "#30019"
+msgid "No Sprite Limit"
+msgstr ""
+
+msgctxt "#30020"
 msgid "68K Overclock"
-msgstr "68K overclock"
+msgstr ""
+
+#~ msgctxt "#30009"
+#~ msgid "Master System FM Sound Unit"
+#~ msgstr "Hovedsystemets FM-lydenhed"
+
+#~ msgctxt "#30010"
+#~ msgid "Mega Drive FM DAC noise"
+#~ msgstr "Mega Drive FM DAC-støj"
+
+#~ msgctxt "#30011"
+#~ msgid "Audio Filter"
+#~ msgstr "Lydfilter"
+
+#~ msgctxt "#30012"
+#~ msgid "Low-Pass Filter %"
+#~ msgstr "Low-pass-filter %"
+
+#~ msgctxt "#30013"
+#~ msgid "Input Device 1"
+#~ msgstr "Indgangsenhed 1"
+
+#~ msgctxt "#30014"
+#~ msgid "Input Device 2"
+#~ msgstr "Indgangsenhed 2"
+
+#~ msgctxt "#30015"
+#~ msgid "Dynamic Recompilers"
+#~ msgstr "Dynamiske recompilere"
+
+#~ msgctxt "#30016"
+#~ msgid "Frameskip"
+#~ msgstr "Spring frame over"
+
+#~ msgctxt "#30017"
+#~ msgid "Frameskip Threshold (%)"
+#~ msgstr "Tærskel når der springes en frame over (%)"
+
+#~ msgctxt "#30018"
+#~ msgid "No Sprite Limit"
+#~ msgstr "Ingen Sprite begrænsning"
+
+#~ msgctxt "#30019"
+#~ msgid "68K Overclock"
+#~ msgstr "68K overclock"
 
 #~ msgctxt "Addon Description"
 #~ msgid "PicoDrive is yet another Mega Drive / Genesis / Sega CD / Mega CD / 32X / SMS emulator heavily optimized for ARM."

@@ -66,45 +66,53 @@ msgid "Audio Sample Rate (Hz)"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Master System FM Sound Unit"
+msgid "FM filtering"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Mega Drive FM DAC noise"
+msgid "Master System FM Sound Unit"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Audio Filter"
+msgid "Mega Drive FM DAC noise"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Low-Pass Filter %"
+msgid "Audio Filter"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Input Device 1"
+msgid "Low-Pass Filter %"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Input Device 2"
+msgid "Input Device 1"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Dynamic Recompilers"
+msgid "Input Device 2"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Frameskip"
-msgstr "Frame skip"
+msgid "Dynamic Recompilers"
+msgstr ""
 
 msgctxt "#30017"
-msgid "Frameskip Threshold (%)"
+msgid "Frameskip"
 msgstr ""
 
 msgctxt "#30018"
-msgid "No Sprite Limit"
+msgid "Frameskip Threshold (%)"
 msgstr ""
 
 msgctxt "#30019"
+msgid "No Sprite Limit"
+msgstr ""
+
+msgctxt "#30020"
 msgid "68K Overclock"
 msgstr ""
+
+#~ msgctxt "#30016"
+#~ msgid "Frameskip"
+#~ msgstr "Frame skip"

@@ -66,45 +66,93 @@ msgid "Audio Sample Rate (Hz)"
 msgstr "Frecuencia de Muestreo de Audio (Hz)"
 
 msgctxt "#30009"
-msgid "Master System FM Sound Unit"
-msgstr "Unidad de Sonido FM de Master System"
+msgid "FM filtering"
+msgstr ""
 
 msgctxt "#30010"
-msgid "Mega Drive FM DAC noise"
-msgstr "Ruido DAC FM de Mega Drive"
+msgid "Master System FM Sound Unit"
+msgstr ""
 
 msgctxt "#30011"
-msgid "Audio Filter"
-msgstr "Filtro de Audio"
+msgid "Mega Drive FM DAC noise"
+msgstr ""
 
 msgctxt "#30012"
-msgid "Low-Pass Filter %"
-msgstr "Filtro de Paso Bajo %"
+msgid "Audio Filter"
+msgstr ""
 
 msgctxt "#30013"
-msgid "Input Device 1"
-msgstr "Dispositivo de Entrada 1"
+msgid "Low-Pass Filter %"
+msgstr ""
 
 msgctxt "#30014"
-msgid "Input Device 2"
-msgstr "Dispositivo de Entrada 2"
+msgid "Input Device 1"
+msgstr ""
 
 msgctxt "#30015"
-msgid "Dynamic Recompilers"
-msgstr "Recompiladores Dinámicos"
+msgid "Input Device 2"
+msgstr ""
 
 msgctxt "#30016"
-msgid "Frameskip"
-msgstr "Salto de Fotogramas"
+msgid "Dynamic Recompilers"
+msgstr ""
 
 msgctxt "#30017"
-msgid "Frameskip Threshold (%)"
-msgstr "Umbral de Salto de Fotogramas (%)"
+msgid "Frameskip"
+msgstr ""
 
 msgctxt "#30018"
-msgid "No Sprite Limit"
-msgstr "Sin Límite de Sprites"
+msgid "Frameskip Threshold (%)"
+msgstr ""
 
 msgctxt "#30019"
+msgid "No Sprite Limit"
+msgstr ""
+
+msgctxt "#30020"
 msgid "68K Overclock"
-msgstr "68K Overclock"
+msgstr ""
+
+#~ msgctxt "#30009"
+#~ msgid "Master System FM Sound Unit"
+#~ msgstr "Unidad de Sonido FM de Master System"
+
+#~ msgctxt "#30010"
+#~ msgid "Mega Drive FM DAC noise"
+#~ msgstr "Ruido DAC FM de Mega Drive"
+
+#~ msgctxt "#30011"
+#~ msgid "Audio Filter"
+#~ msgstr "Filtro de Audio"
+
+#~ msgctxt "#30012"
+#~ msgid "Low-Pass Filter %"
+#~ msgstr "Filtro de Paso Bajo %"
+
+#~ msgctxt "#30013"
+#~ msgid "Input Device 1"
+#~ msgstr "Dispositivo de Entrada 1"
+
+#~ msgctxt "#30014"
+#~ msgid "Input Device 2"
+#~ msgstr "Dispositivo de Entrada 2"
+
+#~ msgctxt "#30015"
+#~ msgid "Dynamic Recompilers"
+#~ msgstr "Recompiladores Dinámicos"
+
+#~ msgctxt "#30016"
+#~ msgid "Frameskip"
+#~ msgstr "Salto de Fotogramas"
+
+#~ msgctxt "#30017"
+#~ msgid "Frameskip Threshold (%)"
+#~ msgstr "Umbral de Salto de Fotogramas (%)"
+
+#~ msgctxt "#30018"
+#~ msgid "No Sprite Limit"
+#~ msgstr "Sin Límite de Sprites"
+
+#~ msgctxt "#30019"
+#~ msgid "68K Overclock"
+#~ msgstr "68K Overclock"
