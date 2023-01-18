@@ -1,11 +1,11 @@
 [![Build Status](https://travis-ci.org/kodi-game/game.libretro.picodrive.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.picodrive)
 [![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.picodrive?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-picodrive)
 
-# Sega - GG/MS/MD/CD/32X (PicoDrive)
+# Sega - MS/GG/MD/CD/32X (PicoDrive)
 
 ### Description
 
-PicoDrive is yet another Mega Drive / Genesis / Sega CD / Mega CD / 32X / SMS emulator heavily optimized for ARM.
+PicoDrive is yet another Sega Game Gear / Master System / Mega Drive / Mega CD / 32X emulator heavily optimized for ARM.
 
 ### License
 
