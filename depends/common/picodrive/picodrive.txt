@@ -1,1 +1,1 @@
-picodrive https://github.com/kodi-game/picodrive/archive/78ee179c0e7737d32914476d7fbb7b8c2831e97f.tar.gz
+picodrive https://github.com/kodi-game/picodrive/archive/f9850d399b56be98e9122b218f8748a818c8074f.tar.gz
