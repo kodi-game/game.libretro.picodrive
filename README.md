@@ -13,7 +13,7 @@ MAME
 
 ### Icon
 
-![Icon](game.libretro.picodrive/resources/icon.png)
+![Sega - MS/GG/MD/CD/32X (PicoDrive) icon](game.libretro.picodrive/resources/icon.png)
 
 ### Fanart
 
@@ -21,9 +21,9 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.picodrive/resources/screenshot-01.jpg)
-![Screenshot](game.libretro.picodrive/resources/screenshot-02.jpg)
-![Screenshot](game.libretro.picodrive/resources/screenshot-03.jpg)
+![Sega - MS/GG/MD/CD/32X (PicoDrive) screenshot](game.libretro.picodrive/resources/screenshot-01.jpg)
+![Sega - MS/GG/MD/CD/32X (PicoDrive) screenshot](game.libretro.picodrive/resources/screenshot-02.jpg)
+![Sega - MS/GG/MD/CD/32X (PicoDrive) screenshot](game.libretro.picodrive/resources/screenshot-03.jpg)
 
 ### Disclaimer
 
