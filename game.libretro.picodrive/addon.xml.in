@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.picodrive"
 		name="Sega - MS/GG/MD/CD/32X (PicoDrive)"
-		version="1.99.0.32"
+		version="1.99.0.33"
 		provider-name="notaz, fdave, irixxxx">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -25,7 +25,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
-		<summary lang="en_GB">Sega - MS/MD/CD/32X (PicoDrive) 1.98-</summary>
+		<summary lang="en_GB">Sega - MS/GG/MD/CD/32X (PicoDrive)</summary>
 		<description lang="da_DK">PicoDrive er endnu en Sega Game Gear / Master System / Mega Drive / Mega CD / 32X emulator stærkt optimeret til ARM.</description>
 		<description lang="de_DE">PicoDrive ist ein weiterer Emulator für Sega Game Gear / Master System / Mega Drive / Mega CD / 32X, der stark für ARM optimiert ist.</description>
 		<description lang="en_GB">PicoDrive is yet another Sega Game Gear / Master System / Mega Drive / Mega CD / 32X emulator heavily optimized for ARM.</description>
