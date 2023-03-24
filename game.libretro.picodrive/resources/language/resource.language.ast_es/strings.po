@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 4.15\n"
 
 msgctxt "Addon Summary"
-msgid "Sega - MS/MD/CD/32X (PicoDrive) 1.98-"
+msgid "Sega - MS/GG/MD/CD/32X (PicoDrive)"
 msgstr ""
 
 msgctxt "Addon Description"
