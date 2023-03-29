@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/kodi-game/game.libretro.picodrive.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.picodrive)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.picodrive?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-picodrive)
-
 # Sega - MS/GG/MD/CD/32X (PicoDrive)
 
 ### Description
