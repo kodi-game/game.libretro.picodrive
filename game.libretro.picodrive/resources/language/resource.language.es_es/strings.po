@@ -113,6 +113,10 @@ msgctxt "#30020"
 msgid "68K Overclock"
 msgstr "68K Overclock"
 
+msgctxt "#30021"
+msgid "Master System Palette in TMS modes"
+msgstr ""
+
 #~ msgctxt "#30009"
 #~ msgid "Master System FM Sound Unit"
 #~ msgstr "Unidad de Sonido FM de Master System"

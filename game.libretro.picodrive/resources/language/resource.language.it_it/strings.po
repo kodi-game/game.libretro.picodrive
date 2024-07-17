@@ -113,6 +113,10 @@ msgctxt "#30020"
 msgid "68K Overclock"
 msgstr ""
 
+msgctxt "#30021"
+msgid "Master System Palette in TMS modes"
+msgstr ""
+
 #~ msgctxt "#30011"
 #~ msgid "Audio Filter"
 #~ msgstr "Filtro audio"
