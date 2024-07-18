@@ -4,7 +4,7 @@ Maintainer: wsnipex <wsnipex@a1.net>
 Build-Depends: debhelper (>= 9.0.0),
                cmake,
                kodi-addon-dev,
-               libretro-picodrive (>= 0.0.1) | picodrive (>= 0.0.1)
+               libretro-picodrive (>= 2.00.0) | picodrive (>= 2.00.0)
 Standards-Version: 3.9.8
 Section: libs
 
