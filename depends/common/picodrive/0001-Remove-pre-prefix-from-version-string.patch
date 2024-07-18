@@ -1,0 +1,20 @@
+From 0e276819e9f2f0d40360690ca543ce255c6d829f Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Wed, 17 Jul 2024 18:21:01 -0700
+Subject: [PATCH] Remove pre- prefix from version string
+
+The pre- prefix trips up the CI script, thinking that picodrive is version 0.0.1.
+---
+ platform/common/version.h | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/platform/common/version.h b/platform/common/version.h
+index 1ab6c650..bfe693ee 100644
+--- a/platform/common/version.h
++++ b/platform/common/version.h
+@@ -1 +1 @@
+-#define VERSION "pre-2.00-beta3" REVISION
++#define VERSION "2.00-beta3" REVISION
+-- 
+2.34.1
+
