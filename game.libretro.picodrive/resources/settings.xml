@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-	<category label="30000">
+	<category label="128">
 		<setting label="30001" type="select" id="picodrive_region" values="Auto|Japan NTSC|Japan PAL|US|Europe" default="Auto"/>
 		<setting label="30002" type="select" id="picodrive_smstype" values="Auto|Game Gear|Master System|SG-1000|SC-3000" default="Auto"/>
 		<setting label="30003" type="select" id="picodrive_smsmapper" values="Auto|Sega|Codemasters|Korea|Korea MSX|Korea X-in-1|Korea 4-Pak|Korea Janggun|Korea Nemesis|Taiwan 8K RAM" default="Auto"/>
