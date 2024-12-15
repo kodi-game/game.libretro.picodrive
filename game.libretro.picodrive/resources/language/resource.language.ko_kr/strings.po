@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Authors: Dave (aka fdave, FinalBurn author) and notaz"
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "설정"
-
 msgctxt "#30001"
 msgid "System Region"
 msgstr ""
@@ -116,3 +112,7 @@ msgstr ""
 msgctxt "#30021"
 msgid "Master System Palette in TMS modes"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "설정"

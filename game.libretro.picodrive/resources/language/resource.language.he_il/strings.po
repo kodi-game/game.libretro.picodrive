@@ -28,10 +28,6 @@ msgctxt "Addon Disclaimer"
 msgid "Authors: Dave (aka fdave, FinalBurn author) and notaz"
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr ""
-
 msgctxt "#30001"
 msgid "System Region"
 msgstr ""

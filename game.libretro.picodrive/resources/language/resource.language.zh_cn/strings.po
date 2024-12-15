@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Authors: Dave (aka fdave, FinalBurn author) and notaz"
 msgstr "作者：Dave（又名 fdave，FinalBurn 作者）和 notaz"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "设置"
-
 msgctxt "#30001"
 msgid "System Region"
 msgstr "系统区域"
@@ -116,6 +112,10 @@ msgstr "68K 超频"
 msgctxt "#30021"
 msgid "Master System Palette in TMS modes"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "设置"
 
 #~ msgctxt "#30009"
 #~ msgid "Master System FM Sound Unit"

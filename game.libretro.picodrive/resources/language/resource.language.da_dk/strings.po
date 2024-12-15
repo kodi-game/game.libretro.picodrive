@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Authors: Dave (aka fdave, FinalBurn author) and notaz"
 msgstr "Forfattere: Dave (aka fdave, FinalBurn forfatter) og notaz"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Indstillinger"
-
 msgctxt "#30001"
 msgid "System Region"
 msgstr "Systemets område"
@@ -116,6 +112,10 @@ msgstr "68K overclock"
 msgctxt "#30021"
 msgid "Master System Palette in TMS modes"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Indstillinger"
 
 #~ msgctxt "#30009"
 #~ msgid "Master System FM Sound Unit"
