@@ -29,11 +29,13 @@
 		<summary lang="da_DK">Sega - MS/GG/MD/CD/32X (PicoDrive)</summary>
 		<summary lang="en_GB">Sega - MS/GG/MD/CD/32X (PicoDrive)</summary>
 		<summary lang="es_ES">Sega - MS/GG/MD/CD/32X (PicoDrive)</summary>
+		<summary lang="sv_SE">Sega - MS/GG/MD/CD/32X (PicoDrive)</summary>
 		<summary lang="zh_CN">世嘉 - MS/GG/MD/CD/32X (PicoDrive)</summary>
 		<description lang="da_DK">PicoDrive er endnu en Sega Game Gear / Master System / Mega Drive / Mega CD / 32X emulator stærkt optimeret til ARM.</description>
 		<description lang="de_DE">PicoDrive ist ein weiterer Emulator für Sega Game Gear / Master System / Mega Drive / Mega CD / 32X, der stark für ARM optimiert ist.</description>
 		<description lang="en_GB">PicoDrive is yet another Sega Game Gear / Master System / Mega Drive / Mega CD / 32X emulator heavily optimized for ARM.</description>
 		<description lang="es_ES">PicoDrive es otro emulador de Sega Game Gear / Master System / Mega Drive / Mega CD / 32X muy optimizado para ARM.</description>
+		<description lang="sv_SE">PicoDrive är ännu en Sega Game Gear / Master System / Mega Drive / Mega CD / 32X-emulator som är kraftigt optimerad för ARM.</description>
 		<description lang="zh_CN">PicoDrive 是另一款针对 ARM 进行了大量优化的 Sega Game Gear / Master System / Mega Drive / Mega CD / 32X 模拟器。</description>
 		<disclaimer lang="da_DK">Forfattere: Dave (aka fdave, FinalBurn forfatter) og notaz</disclaimer>
 		<disclaimer lang="de_DE">Autoren: Dave (alias fdave, FinalBurn-Autor) und notaz</disclaimer>
