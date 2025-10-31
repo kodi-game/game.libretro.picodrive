@@ -69,10 +69,6 @@ msgctxt "#30010"
 msgid "Master System FM Sound Unit"
 msgstr "主系统 FM 声音单元"
 
-msgctxt "#30011"
-msgid "Mega Drive FM DAC noise"
-msgstr "世嘉 Drive FM DAC 噪声"
-
 msgctxt "#30012"
 msgid "Audio Filter"
 msgstr "音频滤波器"
@@ -112,6 +108,14 @@ msgstr "68K 超频"
 msgctxt "#30021"
 msgid "Master System Palette in TMS modes"
 msgstr "TMS 模式下的主系统调色板"
+
+msgctxt "#30022"
+msgid "Mega Drive FM chip type"
+msgstr ""
+
+#~ msgctxt "#30011"
+#~ msgid "Mega Drive FM DAC noise"
+#~ msgstr "世嘉 Drive FM DAC 噪声"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

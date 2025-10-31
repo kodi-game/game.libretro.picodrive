@@ -69,10 +69,6 @@ msgctxt "#30010"
 msgid "Master System FM Sound Unit"
 msgstr "Hovedsystemets FM-lydenhed"
 
-msgctxt "#30011"
-msgid "Mega Drive FM DAC noise"
-msgstr "Mega Drive FM DAC-støj"
-
 msgctxt "#30012"
 msgid "Audio Filter"
 msgstr "Lydfilter"
@@ -112,6 +108,14 @@ msgstr "68K overclock"
 msgctxt "#30021"
 msgid "Master System Palette in TMS modes"
 msgstr ""
+
+msgctxt "#30022"
+msgid "Mega Drive FM chip type"
+msgstr ""
+
+#~ msgctxt "#30011"
+#~ msgid "Mega Drive FM DAC noise"
+#~ msgstr "Mega Drive FM DAC-støj"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

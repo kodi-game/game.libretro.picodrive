@@ -69,10 +69,6 @@ msgctxt "#30010"
 msgid "Master System FM Sound Unit"
 msgstr ""
 
-msgctxt "#30011"
-msgid "Mega Drive FM DAC noise"
-msgstr ""
-
 msgctxt "#30012"
 msgid "Audio Filter"
 msgstr ""
@@ -111,4 +107,8 @@ msgstr ""
 
 msgctxt "#30021"
 msgid "Master System Palette in TMS modes"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Mega Drive FM chip type"
 msgstr ""
