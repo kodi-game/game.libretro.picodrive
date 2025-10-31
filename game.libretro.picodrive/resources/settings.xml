@@ -12,7 +12,7 @@
 		<setting label="30008" type="select" id="picodrive_sound_rate" values="44100|16000|22050|32000|native" default="44100"/>
 		<setting label="30009" type="select" id="picodrive_fm_filter" values="off|on" default="off"/>
 		<setting label="30010" type="select" id="picodrive_smsfm" values="off|on" default="off"/>
-		<setting label="30011" type="select" id="picodrive_dacnoise" values="off|on" default="off"/>
+		<setting label="30022" type="select" id="picodrive_fmchip" values="ym2612|ym3438" default="ym2612"/>
 		<setting label="30012" type="select" id="picodrive_audio_filter" values="disabled|low-pass" default="disabled"/>
 		<setting label="30013" type="select" id="picodrive_lowpass_range" values="60|5|10|15|20|25|30|35|40|45|50|55|65|70|75|80|85|90|95" default="60"/>
 		<setting label="30014" type="select" id="picodrive_input1" values="3 button pad|6 button pad|team player|4way play|None" default="3 button pad"/>
