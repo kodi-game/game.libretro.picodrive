@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.picodrive\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-02-04 09:56i\n"
-"PO-Revision-Date: 2026-08-15 23:33+0000\n"
+"PO-Revision-Date: 2026-08-22 00:08+0000\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-picodrive/it_it/>\n"
 "Language: it_it\n"
@@ -19,15 +19,15 @@ msgstr ""
 
 msgctxt "Addon Summary"
 msgid "Sega - MS/GG/MD/CD/32X (PicoDrive)"
-msgstr ""
+msgstr "Sega - MS/GG/MD/CD/32X (PicoDrive)"
 
 msgctxt "Addon Description"
 msgid "PicoDrive is yet another Sega Game Gear / Master System / Mega Drive / Mega CD / 32X emulator heavily optimized for ARM."
-msgstr ""
+msgstr "PicoDrive è un altro emulatore Sega Game Gear / Master System / Mega Drive / Mega CD / 32X pesantemente ottimizzato per ARM."
 
 msgctxt "Addon Disclaimer"
 msgid "Authors: Dave (aka fdave, FinalBurn author) and notaz"
-msgstr ""
+msgstr "Autori: Dave (alias fdave, autore di FinalBurn) e notaz"
 
 msgctxt "#30001"
 msgid "System Region"
@@ -35,15 +35,15 @@ msgstr "Regione del sistema"
 
 msgctxt "#30002"
 msgid "Master System Type"
-msgstr ""
+msgstr "Tipo Master System"
 
 msgctxt "#30003"
 msgid "Master System ROM Mapping"
-msgstr ""
+msgstr "Mappatura ROM Master System"
 
 msgctxt "#30004"
 msgid "Sega CD RAM Cart"
-msgstr ""
+msgstr "Cartuccia RAM Sega CD"
 
 msgctxt "#30005"
 msgid "Core-Provided Aspect Ratio"
@@ -55,19 +55,19 @@ msgstr "Filtro per ghosting LCD"
 
 msgctxt "#30007"
 msgid "Video Renderer"
-msgstr ""
+msgstr "Motore di rendering video"
 
 msgctxt "#30008"
 msgid "Audio Sample Rate (Hz)"
-msgstr ""
+msgstr "Frequenza di campionamento audio (Hz)"
 
 msgctxt "#30009"
 msgid "FM filtering"
-msgstr ""
+msgstr "Filtro FM"
 
 msgctxt "#30010"
 msgid "Master System FM Sound Unit"
-msgstr ""
+msgstr "Unità sonora FM Master System"
 
 msgctxt "#30012"
 msgid "Audio Filter"
@@ -79,15 +79,15 @@ msgstr "Filtro passa basso %"
 
 msgctxt "#30014"
 msgid "Input Device 1"
-msgstr ""
+msgstr "Dispositivo di input 1"
 
 msgctxt "#30015"
 msgid "Input Device 2"
-msgstr ""
+msgstr "Dispositivo di input 2"
 
 msgctxt "#30016"
 msgid "Dynamic Recompilers"
-msgstr ""
+msgstr "Ricompilatori dinamici"
 
 msgctxt "#30017"
 msgid "Frameskip"
@@ -103,15 +103,15 @@ msgstr "Nessun limite di sprite"
 
 msgctxt "#30020"
 msgid "68K Overclock"
-msgstr ""
+msgstr "Overclock 68K"
 
 msgctxt "#30021"
 msgid "Master System Palette in TMS modes"
-msgstr ""
+msgstr "Tavolozza Master System in modalità TMS"
 
 msgctxt "#30022"
 msgid "Mega Drive FM chip type"
-msgstr ""
+msgstr "Tipo di chip FM Mega Drive"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
