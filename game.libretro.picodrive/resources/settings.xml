@@ -9,10 +9,10 @@
 					<constraints>
 						<options>
 							<option label="16316">Auto</option>
-							<option>Japan NTSC</option>
-							<option>Japan PAL</option>
-							<option>US</option>
-							<option>Europe</option>
+							<option label="30073">Japan NTSC</option>
+							<option label="30074">Japan PAL</option>
+							<option label="30075">US</option>
+							<option label="30076">Europe</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -23,10 +23,10 @@
 					<constraints>
 						<options>
 							<option label="16316">Auto</option>
-							<option>Game Gear</option>
-							<option>Master System</option>
-							<option>SG-1000</option>
-							<option>SC-3000</option>
+							<option label="30077">Game Gear</option>
+							<option label="30078">Master System</option>
+							<option label="30079">SG-1000</option>
+							<option label="30080">SC-3000</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -37,15 +37,15 @@
 					<constraints>
 						<options>
 							<option label="16316">Auto</option>
-							<option>Sega</option>
-							<option>Codemasters</option>
-							<option>Korea</option>
-							<option>Korea MSX</option>
-							<option>Korea X-in-1</option>
-							<option>Korea 4-Pak</option>
-							<option>Korea Janggun</option>
-							<option>Korea Nemesis</option>
-							<option>Taiwan 8K RAM</option>
+							<option label="30081">Sega</option>
+							<option label="30082">Codemasters</option>
+							<option label="30083">Korea</option>
+							<option label="30084">Korea MSX</option>
+							<option label="30085">Korea X-in-1</option>
+							<option label="30086">Korea 4-Pak</option>
+							<option label="30087">Korea Janggun</option>
+							<option label="30088">Korea Nemesis</option>
+							<option label="30089">Taiwan 8K RAM</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -81,9 +81,9 @@
 					<default>PAR</default>
 					<constraints>
 						<options>
-							<option>PAR</option>
+							<option label="30090">PAR</option>
 							<option label="30033">4/3</option>
-							<option>CRT</option>
+							<option label="30091">CRT</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -305,12 +305,12 @@
 					<constraints>
 						<options>
 							<option label="13106">disabled</option>
-							<option>+25%</option>
-							<option>+50%</option>
-							<option>+75%</option>
-							<option>+100%</option>
-							<option>+200%</option>
-							<option>+400%</option>
+							<option label="30092">+25%</option>
+							<option label="30093">+50%</option>
+							<option label="30094">+75%</option>
+							<option label="30095">+100%</option>
+							<option label="30096">+200%</option>
+							<option label="30097">+400%</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
