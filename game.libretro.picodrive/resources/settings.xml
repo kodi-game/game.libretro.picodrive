@@ -8,7 +8,7 @@
 					<default>Auto</default>
 					<constraints>
 						<options>
-							<option>Auto</option>
+							<option label="16316">Auto</option>
 							<option>Japan NTSC</option>
 							<option>Japan PAL</option>
 							<option>US</option>
@@ -22,7 +22,7 @@
 					<default>Auto</default>
 					<constraints>
 						<options>
-							<option>Auto</option>
+							<option label="16316">Auto</option>
 							<option>Game Gear</option>
 							<option>Master System</option>
 							<option>SG-1000</option>
@@ -36,7 +36,7 @@
 					<default>Auto</default>
 					<constraints>
 						<options>
-							<option>Auto</option>
+							<option label="16316">Auto</option>
 							<option>Sega</option>
 							<option>Codemasters</option>
 							<option>Korea</option>
@@ -66,8 +66,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -168,7 +168,7 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
+							<option label="13106">disabled</option>
 							<option label="30052">low-pass</option>
 						</options>
 					</constraints>
@@ -215,7 +215,7 @@
 							<option label="30058">6 button pad</option>
 							<option label="30059">team player</option>
 							<option label="30060">4way play</option>
-							<option>None</option>
+							<option label="231">None</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -227,7 +227,7 @@
 						<options>
 							<option label="30057">3 button pad</option>
 							<option label="30058">6 button pad</option>
-							<option>None</option>
+							<option label="231">None</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -241,8 +241,8 @@
 					<default>enabled</default>
 					<constraints>
 						<options>
-							<option>enabled</option>
-							<option>disabled</option>
+							<option label="305">enabled</option>
+							<option label="13106">disabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -252,7 +252,7 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
+							<option label="13106">disabled</option>
 							<option label="30066">auto</option>
 							<option label="30067">manual</option>
 						</options>
@@ -293,8 +293,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -304,7 +304,7 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
+							<option label="13106">disabled</option>
 							<option>+25%</option>
 							<option>+50%</option>
 							<option>+75%</option>
