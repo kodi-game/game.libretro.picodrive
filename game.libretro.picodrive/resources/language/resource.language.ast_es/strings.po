@@ -313,6 +313,106 @@ msgctxt "#30072"
 msgid "Overclock the emulated 68K chip. Can reduce slowdown, but may cause glitches."
 msgstr ""
 
+msgctxt "#30073"
+msgid "Japan NTSC"
+msgstr ""
+
+msgctxt "#30074"
+msgid "Japan PAL"
+msgstr ""
+
+msgctxt "#30075"
+msgid "US"
+msgstr ""
+
+msgctxt "#30076"
+msgid "Europe"
+msgstr ""
+
+msgctxt "#30077"
+msgid "Game Gear"
+msgstr ""
+
+msgctxt "#30078"
+msgid "Master System"
+msgstr ""
+
+msgctxt "#30079"
+msgid "SG-1000"
+msgstr ""
+
+msgctxt "#30080"
+msgid "SC-3000"
+msgstr ""
+
+msgctxt "#30081"
+msgid "Sega"
+msgstr ""
+
+msgctxt "#30082"
+msgid "Codemasters"
+msgstr ""
+
+msgctxt "#30083"
+msgid "Korea"
+msgstr ""
+
+msgctxt "#30084"
+msgid "Korea MSX"
+msgstr ""
+
+msgctxt "#30085"
+msgid "Korea X-in-1"
+msgstr ""
+
+msgctxt "#30086"
+msgid "Korea 4-Pak"
+msgstr ""
+
+msgctxt "#30087"
+msgid "Korea Janggun"
+msgstr ""
+
+msgctxt "#30088"
+msgid "Korea Nemesis"
+msgstr ""
+
+msgctxt "#30089"
+msgid "Taiwan 8K RAM"
+msgstr ""
+
+msgctxt "#30090"
+msgid "PAR"
+msgstr ""
+
+msgctxt "#30091"
+msgid "CRT"
+msgstr ""
+
+msgctxt "#30092"
+msgid "+25%"
+msgstr ""
+
+msgctxt "#30093"
+msgid "+50%"
+msgstr ""
+
+msgctxt "#30094"
+msgid "+75%"
+msgstr ""
+
+msgctxt "#30095"
+msgid "+100%"
+msgstr ""
+
+msgctxt "#30096"
+msgid "+200%"
+msgstr ""
+
+msgctxt "#30097"
+msgid "+400%"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Axustes"
