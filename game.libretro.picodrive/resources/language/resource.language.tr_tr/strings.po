@@ -31,7 +31,7 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "System Region"
-msgstr ""
+msgstr "Bölge"
 
 msgctxt "#30002"
 msgid "Master System Type"
@@ -43,11 +43,11 @@ msgstr ""
 
 msgctxt "#30004"
 msgid "Sega CD RAM Cart"
-msgstr ""
+msgstr "Sega CD RAM Kartuşu"
 
 msgctxt "#30005"
 msgid "Core-Provided Aspect Ratio"
-msgstr ""
+msgstr "Core tarafından belirlenen en boy oranı"
 
 msgctxt "#30006"
 msgid "LCD Ghosting Filter"
@@ -71,23 +71,23 @@ msgstr ""
 
 msgctxt "#30012"
 msgid "Audio Filter"
-msgstr ""
+msgstr "Ses Filtresi"
 
 msgctxt "#30013"
 msgid "Low-Pass Filter %"
-msgstr ""
+msgstr "Alçak geçiş filtresi %"
 
 msgctxt "#30014"
 msgid "Input Device 1"
-msgstr ""
+msgstr "Giriş cihazı 1"
 
 msgctxt "#30015"
 msgid "Input Device 2"
-msgstr ""
+msgstr "Giriş cihazı 2"
 
 msgctxt "#30016"
 msgid "Dynamic Recompilers"
-msgstr ""
+msgstr "Dinamik Yeniden Derleyici"
 
 msgctxt "#30017"
 msgid "Frameskip"
@@ -99,11 +99,11 @@ msgstr ""
 
 msgctxt "#30019"
 msgid "No Sprite Limit"
-msgstr ""
+msgstr "Sprite sınırı yok"
 
 msgctxt "#30020"
 msgid "68K Overclock"
-msgstr ""
+msgstr "68K Hızaşırtma"
 
 msgctxt "#30021"
 msgid "Master System Palette in TMS modes"
@@ -123,7 +123,7 @@ msgstr ""
 
 msgctxt "#30025"
 msgid "Specify which region the system is from. 'PAL'/'Europe' is 50hz while 'NTSC'/'US' is 60hz. Games may run faster or slower than normal (or produce errors) if the incorrect region is selected."
-msgstr ""
+msgstr "Belirli bir bölgeye zorlayın."
 
 msgctxt "#30026"
 msgid "Choose which type of hardware (SMS or Game Gear) the core should emulate when running Master System content."
@@ -139,7 +139,7 @@ msgstr ""
 
 msgctxt "#30029"
 msgid "Emulate a Sega CD RAM cart, used for save game data. WARNING: When enabled, internal save data (BRAM) will be discarded."
-msgstr ""
+msgstr "Oyun verilerini kaydetmek için kullanılan bir MegaCD RAM kartuşunu taklit edin."
 
 msgctxt "#30030"
 msgid "Video"
@@ -151,7 +151,7 @@ msgstr ""
 
 msgctxt "#30032"
 msgid "Choose the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core Provided' in the Video settings."
-msgstr ""
+msgstr "Core tarafından sağlanan en boy oranını seçin. RetroArch'ın en boy oranı, Video ayarlarında sağlanan Core olarak ayarlanmalıdır."
 
 msgctxt "#30033"
 msgid "4:3"
@@ -227,15 +227,15 @@ msgstr ""
 
 msgctxt "#30051"
 msgid "Enable a low pass audio filter to better simulate the characteristic sound of a Model 1 Mega Drive/Genesis. Note that only Model 1 and its add-ons (Sega CD, 32X) employed a physical low pass filter."
-msgstr ""
+msgstr "Model 1 Genesis'in karakteristik sesini daha iyi simüle etmek için düşük geçişli bir ses filtresini etkinleştirin. Master System ve PICO başlıkları kullanılırken bu seçenek yoksayılır. Sadece Genesis ve eklenti donanımı (Sega CD, 32X) fiziksel düşük geçiş filtresi kullanır."
 
 msgctxt "#30052"
 msgid "Low-Pass"
-msgstr ""
+msgstr "alçak geçiş"
 
 msgctxt "#30053"
 msgid "Specify the cut-off frequency of the low pass audio filter. A higher value increases the perceived 'strength' of the filter, since a wider range of the high frequency spectrum is attenuated."
-msgstr ""
+msgstr "Ses düşük geçiş filtresinin kesme frekansını belirtin. Daha yüksek bir değer, yüksek frekans spektrumunun daha geniş bir aralığı azaltıldığı için filtrenin algılanan gücünü arttırır."
 
 msgctxt "#30054"
 msgid "Input"
@@ -247,7 +247,7 @@ msgstr ""
 
 msgctxt "#30056"
 msgid "Choose which type of controller is plugged into slot 1. Note that a multiplayer adaptor uses both slots."
-msgstr ""
+msgstr "Hangi tür kontrolör'ün yuva 1'e takılı olduğunu seçin."
 
 msgctxt "#30057"
 msgid "3 Button Pad"
@@ -267,7 +267,7 @@ msgstr ""
 
 msgctxt "#30061"
 msgid "Choose which type of controller is plugged into slot 2. This setting is ignored when a multiplayer adaptor is plugged into slot 1."
-msgstr ""
+msgstr "Hangi tür kontrolör'ün yuva 2'e takılı olduğunu seçin"
 
 msgctxt "#30062"
 msgid "Performance"
@@ -279,7 +279,7 @@ msgstr ""
 
 msgctxt "#30064"
 msgid "Enable dynamic recompilers which help to improve performance. Less accurate than interpreter CPU cores, but significantly faster."
-msgstr ""
+msgstr "Performansı artırmaya yardımcı olan dinamik yeniden derleyicileri etkinleştirin. Tercüman CPU çekirdeğinden daha az hassas, ancak çok daha hızlıdır."
 
 msgctxt "#30065"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilises the 'Frameskip Threshold (%)' setting."
@@ -307,11 +307,11 @@ msgstr ""
 
 msgctxt "#30071"
 msgid "Removes the original sprite-per-scanline hardware limit. This reduces flickering but can cause visual glitches, as some games exploit the hardware limit to generate special effects."
-msgstr ""
+msgstr "Sprite sınırını kaldırmak için bunu etkinleştirin."
 
 msgctxt "#30072"
 msgid "Overclock the emulated 68K chip. Can reduce slowdown, but may cause glitches."
-msgstr ""
+msgstr "Öykünülmüş 68K yongasına Hızaşırtma uygulayın."
 
 msgctxt "#30073"
 msgid "Japan NTSC"
