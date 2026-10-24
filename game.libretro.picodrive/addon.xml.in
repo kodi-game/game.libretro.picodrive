@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.picodrive"
 		name="Sega - MS/GG/MD/CD/32X (PicoDrive)"
-		version="2.05.0.63"
+		version="2.05.0.64"
 		provider-name="notaz, fdave, irixxxx">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -16,6 +16,7 @@
 		<supports_standalone>false</supports_standalone>
 		<supports_disc_control>true</supports_disc_control>
 		<libretro_core>picodrive_libretro</libretro_core>
+		<savestate_features>deterministic</savestate_features>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>MAME</license>
