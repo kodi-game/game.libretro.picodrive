@@ -401,6 +401,18 @@ msgctxt "#30097"
 msgid "+400%"
 msgstr ""
 
+msgctxt "#30098"
+msgid "Region"
+msgstr ""
+
+msgctxt "#30099"
+msgid "Renderer"
+msgstr ""
+
+msgctxt "#30100"
+msgid "Sample Rate (Hz)"
+msgstr ""
+
 #~ msgctxt "#30001"
 #~ msgid "System Region"
 #~ msgstr "Systemets område"

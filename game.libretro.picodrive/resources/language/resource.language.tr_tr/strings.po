@@ -416,11 +416,3 @@ msgstr ""
 #~ msgctxt "#30001"
 #~ msgid "System Region"
 #~ msgstr "Bölge"
-
-#~ msgctxt "#30007"
-#~ msgid "Video Renderer"
-#~ msgstr ""
-
-#~ msgctxt "#30008"
-#~ msgid "Audio Sample Rate (Hz)"
-#~ msgstr ""
