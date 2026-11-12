@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Authors: Dave (aka fdave, FinalBurn author) and notaz"
 msgstr "Upphovspersoner: Dave (aka fdave, FinalBurn-grundare) och notaz"
 
-msgctxt "#30001"
-msgid "System Region"
-msgstr "Systemregion"
-
 msgctxt "#30002"
 msgid "Master System Type"
 msgstr "Master System-typ"
@@ -52,14 +48,6 @@ msgstr "Bildformat från kärnan"
 msgctxt "#30006"
 msgid "LCD Ghosting Filter"
 msgstr "LCD-filter för eftersläpning"
-
-msgctxt "#30007"
-msgid "Video Renderer"
-msgstr "Videorenderare"
-
-msgctxt "#30008"
-msgid "Audio Sample Rate (Hz)"
-msgstr "Ljudsamplingsfrekvens (Hz)"
 
 msgctxt "#30009"
 msgid "FM filtering"
@@ -412,6 +400,18 @@ msgstr "+200 %"
 msgctxt "#30097"
 msgid "+400%"
 msgstr "+400 %"
+
+#~ msgctxt "#30001"
+#~ msgid "System Region"
+#~ msgstr "Systemregion"
+
+#~ msgctxt "#30007"
+#~ msgid "Video Renderer"
+#~ msgstr "Videorenderare"
+
+#~ msgctxt "#30008"
+#~ msgid "Audio Sample Rate (Hz)"
+#~ msgstr "Ljudsamplingsfrekvens (Hz)"
 
 #, fuzzy
 #~ msgctxt "#30011"

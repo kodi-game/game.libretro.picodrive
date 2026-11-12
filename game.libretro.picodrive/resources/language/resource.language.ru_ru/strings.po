@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Authors: Dave (aka fdave, FinalBurn author) and notaz"
 msgstr "Авторы: Dave (также известный как fdave, автор FinalBurn) и notaz"
 
-msgctxt "#30001"
-msgid "System Region"
-msgstr "Регион системы"
-
 msgctxt "#30002"
 msgid "Master System Type"
 msgstr "Тип Master System"
@@ -52,14 +48,6 @@ msgstr "Соотношение сторон от ядра"
 msgctxt "#30006"
 msgid "LCD Ghosting Filter"
 msgstr "Фильтр ореолов ЖК-экрана"
-
-msgctxt "#30007"
-msgid "Video Renderer"
-msgstr "Отрисовщик видео"
-
-msgctxt "#30008"
-msgid "Audio Sample Rate (Hz)"
-msgstr "Частота дискретизации аудио (Гц)"
 
 msgctxt "#30009"
 msgid "FM filtering"
@@ -412,6 +400,18 @@ msgstr "+200 %"
 msgctxt "#30097"
 msgid "+400%"
 msgstr "+400 %"
+
+#~ msgctxt "#30001"
+#~ msgid "System Region"
+#~ msgstr "Регион системы"
+
+#~ msgctxt "#30007"
+#~ msgid "Video Renderer"
+#~ msgstr "Отрисовщик видео"
+
+#~ msgctxt "#30008"
+#~ msgid "Audio Sample Rate (Hz)"
+#~ msgstr "Частота дискретизации аудио (Гц)"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

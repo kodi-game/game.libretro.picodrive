@@ -3,7 +3,7 @@
 	<section id="game.libretro.picodrive">
 		<category id="system" label="30023" help="30024">
 			<group id="1">
-				<setting id="picodrive_region" type="string" label="30001" help="30025">
+				<setting id="picodrive_region" type="string" label="30098" help="30025">
 					<level>0</level>
 					<default>Auto</default>
 					<constraints>
@@ -100,7 +100,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="picodrive_renderer" type="string" label="30007" help="30038">
+				<setting id="picodrive_renderer" type="string" label="30099" help="30038">
 					<level>0</level>
 					<default>accurate</default>
 					<constraints>
@@ -116,7 +116,7 @@
 		</category>
 		<category id="audio" label="30042" help="30043">
 			<group id="1">
-				<setting id="picodrive_sound_rate" type="string" label="30008" help="30044">
+				<setting id="picodrive_sound_rate" type="string" label="30100" help="30044">
 					<level>0</level>
 					<default>44100</default>
 					<constraints>

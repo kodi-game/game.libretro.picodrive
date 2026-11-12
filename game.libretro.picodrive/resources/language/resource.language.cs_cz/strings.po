@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Authors: Dave (aka fdave, FinalBurn author) and notaz"
 msgstr "Autoři: Dave (alias fdave, autor FinalBurn) a notaz"
 
-msgctxt "#30001"
-msgid "System Region"
-msgstr "Region systému"
-
 msgctxt "#30002"
 msgid "Master System Type"
 msgstr "Typ Master Systemu"
@@ -52,14 +48,6 @@ msgstr "Poměr stran poskytovaný jádrem"
 msgctxt "#30006"
 msgid "LCD Ghosting Filter"
 msgstr "Filtr doznívání obrazu LCD"
-
-msgctxt "#30007"
-msgid "Video Renderer"
-msgstr "Vykreslovač videa"
-
-msgctxt "#30008"
-msgid "Audio Sample Rate (Hz)"
-msgstr "Vzorkovací frekvence zvuku (Hz)"
 
 msgctxt "#30009"
 msgid "FM filtering"
@@ -412,3 +400,15 @@ msgstr "+200%"
 msgctxt "#30097"
 msgid "+400%"
 msgstr "+400%"
+
+#~ msgctxt "#30001"
+#~ msgid "System Region"
+#~ msgstr "Region systému"
+
+#~ msgctxt "#30007"
+#~ msgid "Video Renderer"
+#~ msgstr "Vykreslovač videa"
+
+#~ msgctxt "#30008"
+#~ msgid "Audio Sample Rate (Hz)"
+#~ msgstr "Vzorkovací frekvence zvuku (Hz)"

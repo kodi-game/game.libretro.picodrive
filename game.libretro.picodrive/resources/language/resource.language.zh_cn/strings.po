@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Authors: Dave (aka fdave, FinalBurn author) and notaz"
 msgstr "作者：Dave（又名 fdave，FinalBurn 作者）和 notaz"
 
-msgctxt "#30001"
-msgid "System Region"
-msgstr "系统区域"
-
 msgctxt "#30002"
 msgid "Master System Type"
 msgstr "主系统类型"
@@ -52,14 +48,6 @@ msgstr "核心提供的纵横比"
 msgctxt "#30006"
 msgid "LCD Ghosting Filter"
 msgstr "LCD 重影滤波器"
-
-msgctxt "#30007"
-msgid "Video Renderer"
-msgstr "视频渲染器"
-
-msgctxt "#30008"
-msgid "Audio Sample Rate (Hz)"
-msgstr "音频采样率（Hz）"
 
 msgctxt "#30009"
 msgid "FM filtering"
@@ -412,6 +400,18 @@ msgstr ""
 msgctxt "#30097"
 msgid "+400%"
 msgstr ""
+
+#~ msgctxt "#30001"
+#~ msgid "System Region"
+#~ msgstr "系统区域"
+
+#~ msgctxt "#30007"
+#~ msgid "Video Renderer"
+#~ msgstr "视频渲染器"
+
+#~ msgctxt "#30008"
+#~ msgid "Audio Sample Rate (Hz)"
+#~ msgstr "音频采样率（Hz）"
 
 #~ msgctxt "#30011"
 #~ msgid "Mega Drive FM DAC noise"

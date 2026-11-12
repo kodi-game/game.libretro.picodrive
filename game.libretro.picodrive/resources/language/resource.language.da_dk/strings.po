@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Authors: Dave (aka fdave, FinalBurn author) and notaz"
 msgstr "Forfattere: Dave (aka fdave, FinalBurn forfatter) og notaz"
 
-msgctxt "#30001"
-msgid "System Region"
-msgstr "Systemets område"
-
 msgctxt "#30002"
 msgid "Master System Type"
 msgstr "Type af hovedsystem"
@@ -52,14 +48,6 @@ msgstr "Billedformat leveret af core"
 msgctxt "#30006"
 msgid "LCD Ghosting Filter"
 msgstr "Filter til LCD ghosting"
-
-msgctxt "#30007"
-msgid "Video Renderer"
-msgstr "Video-renderer"
-
-msgctxt "#30008"
-msgid "Audio Sample Rate (Hz)"
-msgstr "Lydens samplefrekvens (Hz)"
 
 msgctxt "#30009"
 msgid "FM filtering"
@@ -412,6 +400,18 @@ msgstr ""
 msgctxt "#30097"
 msgid "+400%"
 msgstr ""
+
+#~ msgctxt "#30001"
+#~ msgid "System Region"
+#~ msgstr "Systemets område"
+
+#~ msgctxt "#30007"
+#~ msgid "Video Renderer"
+#~ msgstr "Video-renderer"
+
+#~ msgctxt "#30008"
+#~ msgid "Audio Sample Rate (Hz)"
+#~ msgstr "Lydens samplefrekvens (Hz)"
 
 #~ msgctxt "#30011"
 #~ msgid "Mega Drive FM DAC noise"
